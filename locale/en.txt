@@ -1,0 +1,59 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_A80BA0E7_B97A_EC54_41DB_C0E6D029A67E.source = https://simply360.com.au
+
+## Media
+
+### Subtitle
+panorama_E386CB48_ED42_3DF9_41AE_915D801EC77D.subtitle = DISSH | Armadale
+panorama_E3A84193_ED42_0D6F_41E1_549EDBEE4163.subtitle = DISSH | Armadale
+panorama_E3883DFD_ED43_F49B_41DC_7941CD596B27.subtitle = DISSH | Armadale
+panorama_E3EABC57_ED42_7B97_41E3_4C230FB49FE4.subtitle = DISSH | Armadale
+panorama_E3B324D8_ED42_3499_41CC_7E1F0670C230.subtitle = DISSH | Armadale
+panorama_E387AF37_ED42_F597_41CD_8179A3203958.subtitle = DISSH | Armadale
+panorama_547C03B6_4217_422A_41C5_2A2F6BC3A41C.subtitle = DISSH | Armadale
+panorama_56588171_42F5_3E26_41C6_C96DC06A06B6.subtitle = DISSH | Armadale
+
+## Popup
+
+### Body
+htmlText_189CA5E3_0F67_FA01_419D_AC244B66B014.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Montserrat';">A design feature reiterated on and evolved from our Bondi concept, the columns have an updated shape and shade to work back with the High Street palette. Spanning the height of this space, intentionally highlighting the openness and grandness the space offers.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_552006BE_4234_C21A_4189_7816FBDCE106.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Montserrat';">A highlight and hero piece, dreamt up and created by Melbourne-based furniture and art studio, Den Holm - fusing furniture design with fine art. Steven Clark has created this custom centrepiece for our High Street space.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_28162713_0F63_0601_41A4_D07F61727B83.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Montserrat';">Continuing our use of light showcased through interesting design, this is the Alternative Light from Olivia Bossy, Australian based artist and designer. Adding warm light and a hint of our chrome detailing. </SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_53C5123A_4217_421A_41CF_78B2D617A503.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Montserrat';">Feel familiar? Because it should. Travertine is a signature staple within our finishes 'wardrobe'. Effortlessly transforming a space to create a standout feature or subtle backdrop, depending on the mood we want to create. Within High St, you'll find the feature counter supported with chunky shelving central to and at the back of the space.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_3455E25F_0F21_1E01_4175_6D8EB31A8219.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Montserrat';">From natural light, a warm sunkissed golden hour glow, to dark and moody - our customisable DISSH lighting allows you to personalise your lighting and changeroom experience at the touch of a button. It's a yes from us.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_37F610E5_0F21_3A01_4191_117701B3324F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Montserrat';">It's me again - the signature travertine. Reimagined for arguably the most important area within a retail space, the travertine mosaic fills the fitting room foyer. Continuing the design language established in our Bondi store, with an update to the mosaic inlay featured in the X-Bond flooring. This subtle evolution ties the spaces together while adding a unique touch to the High St concept.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_203A463E_0F27_0602_4191_1C6F12B2946A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Montserrat';">Let there be light. The Barrisol stretch ceiling light is a permanent design feature within our new concept stores. Designed to replicate a skylight, it incorporates tunable LED lighting, creating a dynamic and fully customisable atmosphere. Emulated natural light in a fitting room? Yes, please. </SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_8803B642_87AA_9AD6_41C5_B82580F16FB3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Montserrat';">Our spaces reflect our DISSH handwriting in collaboration with the unique perspective of our partners and their interpretation of the DISSH brand and aesthetic. Partnering with long-term friend of the brand, Tigmi Trading, sourcing and curating a mix of unique pieces to bring warmth to the finished space. Perch yourself up on the Saghi Model Chair by Kazuhide Takahama (reupholstered).</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_2A09C108_0F61_7A0F_419E_BC0449A891E0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Montserrat';">Reflective of how we approach styling our DISSH collections, you'll find our signature styling of contrasting textures within this space - creating interest and warmth through this balanced yet contrasting use of neutral materials. You'll find the rug continuing and running up the wall space within the main seating area.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_180D79EF_0F61_0A01_4197_90CE2252D9F4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Montserrat';">She sure is something. One of a kind, the facade of the space has been completely reimagined. Look up - emulating the warm glow of the moon, you can't miss the custom pendant created by Australian fibreglass artist, Amy Vidler.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_1EE748DB_0F23_0A02_419D_BB23613B5CE3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Montserrat';">Step into our third space in creative partnership with Australian interior designer (and creative genius), Brahman Perera. Positioned on the bustling High Street of Melbourne's Armadale - we're so happy to be here. Come on in, we'll give you the grand tour. </SPAN></SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_2A0FD108_0F61_7A0F_4198_1B4300C06C51.title = Contrasting Textures
+window_8818864D_87AA_9AD2_41DD_1B4B314E8B00.title = DISSH x Tigmi 
+window_552216BE_4234_C21A_41BA_47895F6C62C8.title = Den Holm Table
+window_189EB5E2_0F67_FA03_41A1_CA99044E9B23.title = Dual Timber Columns
+window_28141713_0F63_0601_4175_358E5073B5C7.title = Lighting Design
+window_53C6C23A_4217_421A_41B5_CF761F1ED84E.title = Signature Travertine
+window_180F19EF_0F61_0A01_41AA_1F40B9E38DAF.title = The Façade
+window_2024563D_0F27_0601_41A6_1D7924159913.title = The Skylight
+window_37F810E5_0F21_3A01_4197_7E0C631E73B6.title = Travertine Mosaic
+window_1EE4F8DA_0F23_0A03_41A2_9EF93ABBE3DE.title = Welcome to DISSH
+window_3454125F_0F21_1E01_4182_D6A9312D3A77.title = Your Custom Ring Light
+
+## Skin
+
+### Image
+Image_878B4734_8314_37CD_41D3_B3463EAA1D0F.url = skin/Image_878B4734_8314_37CD_41D3_B3463EAA1D0F_en.png
+Image_8A607C22_8D14_D9C5_41C2_7966BCA33715.url = skin/Image_8A607C22_8D14_D9C5_41C2_7966BCA33715_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = DISSH | Armadale
